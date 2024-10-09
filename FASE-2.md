@@ -52,7 +52,7 @@ A plataforma proposta tem como foco facilitar a comunicação e o acesso a servi
 
 
 
-## 6 Histórias de Usuário 
+## 6. Histórias de Usuário 
 
 <table border="1" cellpadding="10" cellspacing="0">
   <thead>
