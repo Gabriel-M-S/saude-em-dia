@@ -49,7 +49,27 @@ A plataforma proposta tem como foco facilitar a comunicação e o acesso a servi
 - **RN4:** Pacientes devem apresentar a documentação necessária no momento do atendimento.
 - **RN5:** O suporte ao cliente deve estar disponível durante o horário comercial, com uma resposta garantida em até 24 horas.
 
+## 5 Protótipos
 
+### Primeiro Acesso
+
+![image](https://github.com/user-attachments/assets/8c6222e8-ed96-4aad-966a-7234be467797)
+
+### Cadastro
+
+![image](https://github.com/user-attachments/assets/35f3e75c-d2f7-4780-934c-eae0d00c1d3a)
+
+### Editar Cadastro 
+
+![image](https://github.com/user-attachments/assets/060f3f2d-e982-45d6-835f-0959639e6f79)
+
+### Buscar Exames
+
+![image](https://github.com/user-attachments/assets/de5b8fbd-ee07-498a-bfd0-e3de83ed05ed)
+
+### Informações de agendamento
+
+![image](https://github.com/user-attachments/assets/702dbaec-e4f3-4657-8078-0b6d061e7a47)
 
 
 ## 6. Histórias de Usuário 
