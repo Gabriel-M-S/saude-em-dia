@@ -8,3 +8,5 @@ Diagrama de Domínio e especificar as classes de domínio
 
 ![image](https://github.com/user-attachments/assets/22265a9f-97a1-436f-8b5f-f975bb8287a9)
 
+GABRIEL MARQUES SILVA
+CESAR HENRIQUE MATARAN MATIAS
