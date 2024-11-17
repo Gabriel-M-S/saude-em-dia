@@ -124,7 +124,7 @@ O **Modelo** é responsável por gerenciar os dados e as regras de negócio da a
    - **Métodos**: `enviar()`, `gerarNotificacaoConsulta()`.
 
 ### Exemplo de Função:
-```javascript
+javascript
 class Consulta {
     static agendar(pacienteId, medicoId, data, horario) {
         if (!this.validarHorario(horario)) {
@@ -154,7 +154,7 @@ A **Visão** é responsável por apresentar os dados ao usuário de maneira amig
 4. **Tela de Prontuário**: Exibição de informações médicas do paciente.
 
 ### Exemplo de Código Front-End (React.js):
-```javascript
+javascript
 function Agendamento({ consultas }) {
     return (
         <div>
@@ -186,7 +186,7 @@ O **Controlador** gerencia a interação do usuário e é responsável por proce
 3. **`/agendarConsulta`**: Recebe dados do agendamento e verifica disponibilidade no modelo.
 
 ### Exemplo de Código Back-End (Node.js/Express):
-```javascript
+javascript
 const express = require('express');
 const router = express.Router();
 const Consulta = require('./models/Consulta');
