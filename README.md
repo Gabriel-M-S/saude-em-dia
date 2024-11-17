@@ -4,6 +4,10 @@
 
 ---
 
+## 📂 Veja mais detalhes do Projeto de Arquitetura (Fase 4) na Wiki do repositório:
+
+https://github.com/Gabriel-M-S/saude-em-dia/wiki
+
 ## 📋 Funcionalidades
 
 - **Cadastro de Pacientes**: Registro de informações pessoais e médicas dos pacientes.
@@ -72,4 +76,3 @@ O sistema utiliza uma arquitetura em camadas baseada no padrão **Model-View-Con
 
 ---
 
-## 📂 Veja mais detalhes do Projeto de Arquitetura (Fase 4) na Wiki do repositório
